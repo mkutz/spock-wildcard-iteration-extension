@@ -1,5 +1,5 @@
-Spock Scope Extension
-=====================
+Spock Wildcard Iteration Extension
+==================================
 
 [![Build Status](https://travis-ci.org/mkutz/spock-wildcard-iteration-extension.svg?branch=master)](https://travis-ci.org/mkutz/spock-wildcard-iteration-extension) [![Coverage Status](https://img.shields.io/coveralls/mkutz/spock-wildcard-iteration-extension.svg)](https://coveralls.io/r/mkutz/spock-wildcard-iteration-extension) [![Maven Central](https://img.shields.io/maven-central/v/de.assertagile.spockframework.extensions/spock-wildcard-iteration-extension.svg)](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22spock-wildcard-iteration-extension%22)
 
